@@ -1,0 +1,13 @@
+.video-container {
+  flex: 1;
+  overflow: hidden;
+}
+
+video {
+  max-width: 100%;
+}
+
+img {
+  flex: 1;
+  max-width: 100%;
+}
